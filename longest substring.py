@@ -1,6 +1,6 @@
 # // For example, given the input of S = "abppplee" and
-# D = {"able", "ale", "apple", "bale", "kangaroo"}
-# the correct output would be "apple"
+# D = {"able", "ale", "apple", "bale", "kangaroo"}, 
+# identify the longest substring. In the example, the correct output would be "apple"
 
 D = {"able", "ale", "apple", "bale", "kangaroo"}
 
