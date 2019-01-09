@@ -1,7 +1,6 @@
 
 D = {"able", "ale", "apple", "bale", "kangaroo"}
 
-heckAgainst = "abpplee"
 wordList = []
 furthestWord = ''
 
